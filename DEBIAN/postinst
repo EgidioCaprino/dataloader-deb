@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo mv /usr/bin/dataloader.sh /usr/bin/dataloader
+chmod 755 /usr/bin/dataloader
+chown root:root /usr/bin/dataloader

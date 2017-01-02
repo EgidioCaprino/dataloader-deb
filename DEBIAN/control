@@ -1,0 +1,8 @@
+Package: dataloader
+Version: 39.0.0-1
+Architecture: all
+Maintainer: Egidio Caprino <egidio.caprino@gmail.com>
+Depends: default-jdk | oracle-java7-installer | oracle-java8-installer
+Section: utils
+Priority: optional
+Description: An easy to use graphical tool that helps you to get your data into Salesforce objects
